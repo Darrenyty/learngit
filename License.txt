@@ -1,0 +1,1 @@
+This license is only for git testing purposes.
