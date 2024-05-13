@@ -1,0 +1,2 @@
+Need to connect with the repo first using http rather than ssh. Connect to the repo by using the user name and token but not password.
+
